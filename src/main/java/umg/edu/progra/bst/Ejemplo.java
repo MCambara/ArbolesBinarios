@@ -157,6 +157,29 @@ public class Ejemplo {
 
         scanner.close();
     }
+    
+    /**
+     * Ejercicios
+     * Ejercicio 1: Insertar y Buscar Elementos
+     * Implementa una clase MainBST que cree un BST e inserte los siguientes empleados con sus respectivos IDs:
+		Empleado(10, "Juan")		
+		Empleado(20, "Maria")		
+		Empleado(5, "Pedro")		
+		Empleado(8, "Ana")		
+		Empleado(15, "Carlos")		
+		Empleado(25, "Sofia")		
+		Busca los empleados con los IDs 8, 15 y 30. Imprime si existen o no.
+     */
+    
+    /**
+     * Ejercicio 2: Recorridos del Árbol
+		Crea un BST con los mismos empleados del ejercicio anterior.
+		Implementa un menú para que el usuario pueda elegir entre:
+		Mostrar el recorrido PreOrden.
+		Mostrar el recorrido InOrden.
+		Mostrar el recorrido PostOrden.
+		Explica qué patrón sigue cada recorrido y para qué casos es útil.
+     */
 
     /**
      * Ejercicio 3: Encontrar el Mínimo y Máximo
